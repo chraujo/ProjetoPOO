@@ -1,2 +1,2 @@
-# ProjetoPOO
-Software de avaliação e recomendação audiovisual, projetado com base nos preceitos da Programação Orientada a Objetos de modo colaborativo entre alunos do curso de Ciência da Computação (UNICAMP)
+# ProjetoFinalMC322
+Projeto final do curso MC322 - Programação Orientada a Objetos, do Bacharelado em Ciência da Computação na Universidade Estadual de Campinas - UNICAMP
